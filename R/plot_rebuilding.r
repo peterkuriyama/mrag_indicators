@@ -47,7 +47,14 @@ rebuild.only <- rebuild %.% group_by(region, year) %.% summarise(tot.nrow = leng
   #All West
   plot(west$year, round(west[, column], digits = 2), ylim = ylim, xlab = 'Year', 
     axes = FALSE, main = 'West Coast', type = 'b', pch = 19, xaxs = 'i', yaxs = 'i')
+<<<<<<< HEAD
   abline(v = 2010.5, lty = 2, col = 'gray50')
+=======
+  
+  # if(area == 'ne') abline(v = 2009.5, lty = 2, col = 'gray50')
+  abline(v = 2010.5, lty = 2, col = 'gray50')
+  
+>>>>>>> 5b7f53ba19860290cd2629b610de03c9cb942325
   axis(side = 1, seq(2000, 2014, 2))
   axis(side = 2)
   

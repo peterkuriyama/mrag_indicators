@@ -77,10 +77,18 @@ overfished.stocks <- overfished  %.% group_by(region, year) %.% summarise(tot.nr
   #Rebuilding Plot
   plot(overfished.stocks$year, round(overfished.stocks[, column], digits = 2), ylim = ylim, xlab = 'Year', 
       axes = FALSE, main = main2, type = 'b', pch = 19, xaxs = 'i', yaxs = 'i')
+<<<<<<< HEAD
   if(area == 'ne') abline(v = 2009.5, lty = 2, col = 'gray50')
   if(area == 'west') abline(v = 2010.5, lty = 2, col = 'gray50')
   axis(side = 1, seq(2000, 2014, 2))
+=======
+    
+  if(area == 'ne') abline(v = 2009.5, lty = 2, col = 'gray50')
+  if(area == 'west') abline(v = 2010.5, lty = 2, col = 'gray50')
+>>>>>>> 5b7f53ba19860290cd2629b610de03c9cb942325
 
+  axis(side = 1, seq(2000, 2014, 2))
+    
   mtext(side = 1, outer = TRUE, 'Year', line = 1)
   mtext(side = 2, outer = TRUE, ylabel , line = 2)
   mtext(side = 3, outer = TRUE, main.title, line = 1)

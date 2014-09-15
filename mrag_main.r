@@ -8,6 +8,10 @@
 ######################################################################
 
 #set working directory
+<<<<<<< HEAD
+=======
+# setwd('/Users/peterkuriyama/School/Research/MRAG')
+>>>>>>> 5b7f53ba19860290cd2629b610de03c9cb942325
 setwd('/Users/peterkuriyama/School/Research/MRAG/mrag_indicators')
 
 #load packages
