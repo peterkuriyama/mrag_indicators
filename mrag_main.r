@@ -8,7 +8,8 @@
 ######################################################################
 
 #set working directory
-setwd('/Users/peterkuriyama/School/Research/MRAG')
+# setwd('/Users/peterkuriyama/School/Research/MRAG')
+setwd('/Users/peterkuriyama/School/Research/MRAG/mrag_indicators')
 
 #load packages
 library('dplyr')
