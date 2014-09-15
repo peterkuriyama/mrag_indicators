@@ -1,0 +1,43 @@
+f_ratios <- function(){
+  ts <- time_series()
+  refs <- ref_points()
+
+  ##Calculate F Ratios
+  #Time Series
+  fs <- ts[grep('F', ts$tsid), ]
+  us <- ts[grep('U', ts$tsid), ]
+  ers <- ts[grep('ER', ts$tsid), ]
+  f <- rbind(fs, us, ers)
+
+  #Reference Points
+  fs.ref <- refs[grep('F', refs$bioid), ]
+  us.ref <- refs[grep('U', refs$bioid), ]
+  ers.ref <- refs[grep('ER', refs$bioid), ]
+  f.ref <- rbind(fs.ref, us.ref, ers.ref)
+
+  #Merge time series and reference points
+  f.ratios <- merge(f, f.ref, all = TRUE, by = 'stocklong')
+
+  #Remove NAs
+  f.ratios <- f.ratios[-which(is.na(f.ratios$tsvalue) == TRUE), ]
+  f.ratios <- f.ratios[-which(f.ratios$tsvalue == ''), ]
+  f.ratios <- f.ratios[-which(is.na(f.ratios$biovalue) == TRUE), ]
+
+  #Convert value columns to numeric
+  f.ratios$tsvalue <- as.numeric(f.ratios$tsvalue)
+
+  #Calculate Ratio
+  f.ratios$ratio <- f.ratios$tsvalue / f.ratios$biovalue
+
+  #Move Columns Around
+  f.ratios <- f.ratios[, c('stocklong', 'stockid.x', 'assessid.x', 'tsyear', 'tsid', 'tsvalue',
+                           'bioid', 'biovalue', 'ratio')]
+  f.ratios <- rename(f.ratios, c('stockid.x' = 'stockid', 
+                                 'assessid.x' = 'assessid'))
+
+  f.ratios <- east_west(data = f.ratios)
+
+
+  write.csv(f.ratios, file = 'output/f_ratios.csv')
+  return(f.ratios)
+}

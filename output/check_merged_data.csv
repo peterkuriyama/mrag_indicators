@@ -1,0 +1,58 @@
+"","unq","f.ratio","f.msy","fmsy.id","f","f.ts","stocklong.x","stocklong.y","stockid","assessid","year","b.ts","b","bmsy.id","b.msy","b.ratio","region"
+"24","arrowtooth flounder pacific coast 2007",NA,NA,NA,NA,NA,NA,"arrowtooth flounder pacific coast","ARFLOUNDPCOAST","NWFSC-ARFLOUNDPCOAST-1916-2007-BRANCH",2007,"SSB-MT",63301.5,"SSBmsy-MT",16593,3.81495208822998,"west"
+"62","aurora rockfish pacific coast 2013",NA,NA,NA,NA,NA,NA,"aurora rockfish pacific coast","AUROPCOAST","NWFSC-AUROPCOAST-1916-2013-KURIYAMA",2013,"SSB-MT",1673,"SSBmsy-MT",648,2.58179012345679,"west"
+"77","black rockfish southern pacific coast 2007",NA,NA,NA,NA,NA,NA,"black rockfish southern pacific coast","BLACKROCKSPCOAST","NWFSC-BLACKROCKSPCOAST-1915-2007-BRANCH",2007,"SSB-E6larvae",3226.5,"SSBmsy-E6larvae",1444.6,2.23349023951267,"west"
+"122","canary rockfish pacific coast 2011",NA,NA,NA,NA,NA,NA,"canary rockfish pacific coast","CROCKPCOAST","NWFSC-CROCKPCOAST-1916-2011-STACHURA",2011,"SSB-MT",6458,"SSBmsy-MT",10464,0.617163608562691,"west"
+"130","chilipepper southern pacific coast 2007",NA,NA,NA,NA,NA,NA,"chilipepper southern pacific coast","CHILISPCOAST","NWFSC-CHILISPCOAST-1892-2007-BRANCH",2007,"SSB-MT",23827,"SSBmsy-MT",12126,1.96495134421903,"west"
+"183","dover sole pacific coast 2011",NA,NA,NA,NA,NA,NA,"dover sole pacific coast","DSOLEPCOAST","SWFSC-DSOLEPCOAST-1910-2011-STACHURA",2011,"SSB-MT",393507,"SSBmsy-MT",114398,3.43980663997622,"west"
+"191","english sole pacific coast 2007",NA,NA,NA,NA,NA,NA,"english sole pacific coast","ESOLEPCOAST","NWFSC-ESOLEPCOAST-1876-2007-BRANCH",2007,"SSB-MT",41907,"SSBmsy-MT",6526,6.4215445908673,"west"
+"197","gopher rockfish southern pacific coast 2005",NA,NA,NA,NA,NA,NA,"gopher rockfish southern pacific coast","GOPHERSPCOAST","SWFSC-GOPHERSPCOAST-1965-2005-STANTON",2005,"SSB-MT",1901.9,"SSBmsy-MT",798,2.38333333333333,"west"
+"253","kelp greenling oregon coast 2005",NA,NA,NA,NA,NA,NA,"kelp greenling oregon coast","KELPGREENLINGORECOAST","NWFSC-KELPGREENLINGORECOAST-1979-2005-STANTON",2005,"SSB-MT",156.873,"SSBmsy-MT",123,1.27539024390244,"west"
+"272","lingcod northern pacific coast 2009",NA,NA,NA,NA,NA,NA,"lingcod northern pacific coast","LINGCODNPCOAST","NWFSC-LINGCODNPCOAST-1928-2009-STACHURA",2009,"SSB-MT",20484,"SSBmsy-MT",13230,1.54829931972789,"west"
+"337","pacific ocean perch pacific coast 2011",NA,NA,NA,NA,NA,NA,"pacific ocean perch pacific coast","POPERCHPCOAST","NWFSC-POPERCHPCOAST-1940-2011-STACHURA",2011,"SSB-E8eggs",56721,"SSBmsy-E8eggs",25601,2.21557751650326,"west"
+"374","rougheye and blackspotted rockfish complex pacific coast 2013",NA,NA,NA,NA,NA,NA,"rougheye and blackspotted rockfish complex pacific coast","ROBLPCOAST","NWFSC-ROBLPCOAST-1916-2013-KURIYAMA",2013,"SSB-MT",8550,"SSBmsy-MT",1305,6.55172413793103,"west"
+"386","sablefish pacific coast 2011",NA,NA,NA,NA,NA,NA,"sablefish pacific coast","SABLEFPCOAST","NWFSC-SABLEFPCOAST-1900-2011-STACHURA",2011,"SSB-MT",60957,"SSBmsy-MT",54163,1.12543618337241,"west"
+"409","splitnose rockfish pacific coast 2009",NA,NA,NA,NA,NA,NA,"splitnose rockfish pacific coast","SNROCKPCOAST","NWFSC-SNROCKPCOAST-1905-2009-STANTON",2009,"SSB-E6eggs",8426,"SSBmsy-E6eggs",4121,2.0446493569522,"west"
+"415","starry flounder northern pacific coast 2005",NA,NA,NA,NA,NA,NA,"starry flounder northern pacific coast","STFLOUNNPCOAST","SWFSC-STFLOUNNPCOAST-1970-2005-STANTON",2005,"SSB-MT",2121,"SSBmsy-MT",1930,1.09896373056995,"west"
+"416","starry flounder southern pacific coast 2000",0.0532544378698225,0.169,"Umsy-ratio",0.009,"U-ratio","starry flounder southern pacific coast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"417","starry flounder southern pacific coast 2001",0.106508875739645,0.169,"Umsy-ratio",0.018,"U-ratio","starry flounder southern pacific coast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"418","starry flounder southern pacific coast 2002",0.0769230769230769,0.169,"Umsy-ratio",0.013,"U-ratio","starry flounder southern pacific coast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"419","starry flounder southern pacific coast 2003",0.0710059171597633,0.169,"Umsy-ratio",0.012,"U-ratio","starry flounder southern pacific coast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"420","starry flounder southern pacific coast 2004",0.0710059171597633,0.169,"Umsy-ratio",0.012,"U-ratio","starry flounder southern pacific coast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"433","widow rockfish pacific coast 2000",NA,NA,NA,NA,NA,NA,"widow rockfish pacific coast","WROCKPCOAST","NWFSC-WROCKPCOAST-1916-2011-STACHURA",2000,"SSB-MT",22270,"SSBmsy-MT",18161,1.22625406089973,"west"
+"434","widow rockfish pacific coast 2001",NA,NA,NA,NA,NA,NA,"widow rockfish pacific coast","WROCKPCOAST","NWFSC-WROCKPCOAST-1916-2011-STACHURA",2001,"SSB-MT",21732,"SSBmsy-MT",18161,1.19663014151203,"west"
+"435","widow rockfish pacific coast 2002",NA,NA,NA,NA,NA,NA,"widow rockfish pacific coast","WROCKPCOAST","NWFSC-WROCKPCOAST-1916-2011-STACHURA",2002,"SSB-MT",22074,"SSBmsy-MT",18161,1.21546170365068,"west"
+"436","widow rockfish pacific coast 2003",NA,NA,NA,NA,NA,NA,"widow rockfish pacific coast","WROCKPCOAST","NWFSC-WROCKPCOAST-1916-2011-STACHURA",2003,"SSB-MT",23491,"SSBmsy-MT",18161,1.29348604151754,"west"
+"437","widow rockfish pacific coast 2004",NA,NA,NA,NA,NA,NA,"widow rockfish pacific coast","WROCKPCOAST","NWFSC-WROCKPCOAST-1916-2011-STACHURA",2004,"SSB-MT",25652,"SSBmsy-MT",18161,1.41247728649303,"west"
+"438","widow rockfish pacific coast 2005",NA,NA,NA,NA,NA,NA,"widow rockfish pacific coast","WROCKPCOAST","NWFSC-WROCKPCOAST-1916-2011-STACHURA",2005,"SSB-MT",28441,"SSBmsy-MT",18161,1.56604812510324,"west"
+"439","widow rockfish pacific coast 2006",NA,NA,NA,NA,NA,NA,"widow rockfish pacific coast","WROCKPCOAST","NWFSC-WROCKPCOAST-1916-2011-STACHURA",2006,"SSB-MT",31178,"SSBmsy-MT",18161,1.71675568525962,"west"
+"440","widow rockfish pacific coast 2007",NA,NA,NA,NA,NA,NA,"widow rockfish pacific coast","WROCKPCOAST","NWFSC-WROCKPCOAST-1916-2011-STACHURA",2007,"SSB-MT",33350,"SSBmsy-MT",18161,1.8363526237542,"west"
+"441","widow rockfish pacific coast 2008",NA,NA,NA,NA,NA,NA,"widow rockfish pacific coast","WROCKPCOAST","NWFSC-WROCKPCOAST-1916-2011-STACHURA",2008,"SSB-MT",34728,"SSBmsy-MT",18161,1.91222950278068,"west"
+"442","widow rockfish pacific coast 2009",NA,NA,NA,NA,NA,NA,"widow rockfish pacific coast","WROCKPCOAST","NWFSC-WROCKPCOAST-1916-2011-STACHURA",2009,"SSB-MT",35545,"SSBmsy-MT",18161,1.95721601233412,"west"
+"443","widow rockfish pacific coast 2010",NA,NA,NA,NA,NA,NA,"widow rockfish pacific coast","WROCKPCOAST","NWFSC-WROCKPCOAST-1916-2011-STACHURA",2010,"SSB-MT",36063,"SSBmsy-MT",18161,1.98573867077804,"west"
+"444","widow rockfish pacific coast 2011",NA,NA,NA,NA,NA,NA,"widow rockfish pacific coast","WROCKPCOAST","NWFSC-WROCKPCOAST-1916-2011-STACHURA",2011,"SSB-MT",36342,"SSBmsy-MT",18161,2.00110126094378,"west"
+"445","winter flounder georges bank 2000",0.652380952380953,0.42,"Fmsy-1/T",0.274,"F-1/T","winter flounder georges bank",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"446","winter flounder georges bank 2001",1.22619047619048,0.42,"Fmsy-1/T",0.515,"F-1/T","winter flounder georges bank",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"447","winter flounder georges bank 2002",1.30238095238095,0.42,"Fmsy-1/T",0.547,"F-1/T","winter flounder georges bank",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"448","winter flounder georges bank 2003",2.02857142857143,0.42,"Fmsy-1/T",0.852,"F-1/T","winter flounder georges bank",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"449","winter flounder georges bank 2004",1.5,0.42,"Fmsy-1/T",0.63,"F-1/T","winter flounder georges bank",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"450","winter flounder georges bank 2005",1.33809523809524,0.42,"Fmsy-1/T",0.562,"F-1/T","winter flounder georges bank",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"451","winter flounder georges bank 2006",0.476190476190476,0.42,"Fmsy-1/T",0.2,"F-1/T","winter flounder georges bank",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"452","winter flounder georges bank 2007",0.507142857142857,0.42,"Fmsy-1/T",0.213,"F-1/T","winter flounder georges bank",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"453","winter flounder georges bank 2008",0.545238095238095,0.42,"Fmsy-1/T",0.229,"F-1/T","winter flounder georges bank",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"454","winter flounder georges bank 2009",0.547619047619048,0.42,"Fmsy-1/T",0.23,"F-1/T","winter flounder georges bank",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"455","winter flounder georges bank 2010",0.366666666666667,0.42,"Fmsy-1/T",0.154,"F-1/T","winter flounder georges bank",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"456","winter flounder nafo-5z 2000",NA,NA,NA,NA,NA,NA,"winter flounder nafo-5z","WINFLOUN5Z","NEFSC-WINFLOUN5Z-1982-2007-HENDRICKSON",2000,"SSB-MT",11571,"SSBmsy-MT",16000,0.7231875,"ne"
+"457","winter flounder nafo-5z 2001",NA,NA,NA,NA,NA,NA,"winter flounder nafo-5z","WINFLOUN5Z","NEFSC-WINFLOUN5Z-1982-2007-HENDRICKSON",2001,"SSB-MT",9082,"SSBmsy-MT",16000,0.567625,"ne"
+"458","winter flounder nafo-5z 2002",NA,NA,NA,NA,NA,NA,"winter flounder nafo-5z","WINFLOUN5Z","NEFSC-WINFLOUN5Z-1982-2007-HENDRICKSON",2002,"SSB-MT",8860,"SSBmsy-MT",16000,0.55375,"ne"
+"459","winter flounder nafo-5z 2003",NA,NA,NA,NA,NA,NA,"winter flounder nafo-5z","WINFLOUN5Z","NEFSC-WINFLOUN5Z-1982-2007-HENDRICKSON",2003,"SSB-MT",8308,"SSBmsy-MT",16000,0.51925,"ne"
+"460","winter flounder nafo-5z 2004",NA,NA,NA,NA,NA,NA,"winter flounder nafo-5z","WINFLOUN5Z","NEFSC-WINFLOUN5Z-1982-2007-HENDRICKSON",2004,"SSB-MT",5572,"SSBmsy-MT",16000,0.34825,"ne"
+"461","winter flounder nafo-5z 2005",NA,NA,NA,NA,NA,NA,"winter flounder nafo-5z","WINFLOUN5Z","NEFSC-WINFLOUN5Z-1982-2007-HENDRICKSON",2005,"SSB-MT",4459,"SSBmsy-MT",16000,0.2786875,"ne"
+"462","winter flounder nafo-5z 2006",NA,NA,NA,NA,NA,NA,"winter flounder nafo-5z","WINFLOUN5Z","NEFSC-WINFLOUN5Z-1982-2007-HENDRICKSON",2006,"SSB-MT",4477,"SSBmsy-MT",16000,0.2798125,"ne"
+"493","yelloweye rockfish pacific coast 2011",NA,NA,NA,NA,NA,NA,"yelloweye rockfish pacific coast","YEYEROCKPCOAST","NWFSC-YEYEROCKPCOAST-1916-2011-STACHURA",2011,"SSB-E6eggs",219,"SSBmsy-E6eggs",392,0.558673469387755,"west"
+"522","yellowtail rockfish northern pacific coast 2000",NA,NA,NA,NA,NA,NA,"yellowtail rockfish northern pacific coast","YTROCKNPCOAST","NWFSC-YTROCKNPCOAST-1967-2005-STANTON",2000,"SSB-MT",18028.04,"SSBmsy-MT",12407,1.45305392117353,"west"
+"523","yellowtail rockfish northern pacific coast 2001",NA,NA,NA,NA,NA,NA,"yellowtail rockfish northern pacific coast","YTROCKNPCOAST","NWFSC-YTROCKNPCOAST-1967-2005-STANTON",2001,"SSB-MT",18538.72,"SSBmsy-MT",12407,1.49421455629886,"west"
+"524","yellowtail rockfish northern pacific coast 2002",NA,NA,NA,NA,NA,NA,"yellowtail rockfish northern pacific coast","YTROCKNPCOAST","NWFSC-YTROCKNPCOAST-1967-2005-STANTON",2002,"SSB-MT",18750.03,"SSBmsy-MT",12407,1.5112460707665,"west"
+"525","yellowtail rockfish northern pacific coast 2003",NA,NA,NA,NA,NA,NA,"yellowtail rockfish northern pacific coast","YTROCKNPCOAST","NWFSC-YTROCKNPCOAST-1967-2005-STANTON",2003,"SSB-MT",16377.23,"SSBmsy-MT",12407,1.31999919400339,"west"
+"526","yellowtail rockfish northern pacific coast 2004",NA,NA,NA,NA,NA,NA,"yellowtail rockfish northern pacific coast","YTROCKNPCOAST","NWFSC-YTROCKNPCOAST-1967-2005-STANTON",2004,"SSB-MT",17395.53,"SSBmsy-MT",12407,1.40207382928992,"west"
+"527","yellowtail rockfish northern pacific coast 2005",NA,NA,NA,NA,NA,NA,"yellowtail rockfish northern pacific coast","YTROCKNPCOAST","NWFSC-YTROCKNPCOAST-1967-2005-STANTON",2005,"SSB-MT",16915.83,"SSBmsy-MT",12407,1.36341017167728,"west"
