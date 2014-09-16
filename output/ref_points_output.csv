@@ -165,59 +165,59 @@
 "206","CABEZSCAL","PFMC-CABEZSCAL-1930-2009-CHING","cabezon southern california","Fmsy-1/yr",0.17
 "207","CABEZSCAL","PFMC-CABEZSCAL-1930-2009-CHING","cabezon southern california","MSY-MT",30
 "208","CABEZSCAL","PFMC-CABEZSCAL-1930-2009-CHING","cabezon southern california","SSBmsy-MT",67
-"212","GRNSTROCKPCOAST","PFMC-GRNSTROCKPCOAST-1916-2009-STANTON","greenstriped rockfish pacific coast","B0-MT",33526
-"213","GRNSTROCKPCOAST","PFMC-GRNSTROCKPCOAST-1916-2009-STANTON","greenstriped rockfish pacific coast","MSY-MT",803
-"214","GRNSTROCKPCOAST","PFMC-GRNSTROCKPCOAST-1916-2009-STANTON","greenstriped rockfish pacific coast","SSBmsy-eggs",2.039e+09
-"215","GRNSTROCKPCOAST","PFMC-GRNSTROCKPCOAST-1916-2009-STANTON","greenstriped rockfish pacific coast","Fmsy-1/yr",0.0682
-"220","WINFLOUNDRI","RIDEM-WINFLOUNDRI-1959-2007-COLLIE","winter flounder rhode island","Bmsy-MT",5478
-"221","WINFLOUNDRI","RIDEM-WINFLOUNDRI-1959-2007-COLLIE","winter flounder rhode island","Fmsy-1/yr",0.266
-"222","CALSCORPSCAL","SWFSC-CALSCORPSCAL-1990-2005-STANTON","california scorpionfish southern california","B0-MT",2007
-"223","CALSCORPSCAL","SWFSC-CALSCORPSCAL-1990-2005-STANTON","california scorpionfish southern california","MSY-MT",127
-"224","CALSCORPSCAL","SWFSC-CALSCORPSCAL-1990-2005-STANTON","california scorpionfish southern california","Fmsy-1/yr",0.161
-"225","CMACKPCOAST","SWFSC-CMACKPCOAST-1929-2008-PINSKY","pacific chub mackerel pacific coast","MSY-MT",23048.2
-"226","CMACKPCOAST","SWFSC-CMACKPCOAST-1929-2008-PINSKY","pacific chub mackerel pacific coast","MSY-MT",51772
-"227","CMACKPCOAST","SWFSC-CMACKPCOAST-1929-2008-PINSKY","pacific chub mackerel pacific coast","SSBmsy-MT",122357
-"228","DSOLEPCOAST","SWFSC-DSOLEPCOAST-1910-2011-STACHURA","dover sole pacific coast","B0-MT",821271
-"229","DSOLEPCOAST","SWFSC-DSOLEPCOAST-1910-2011-STACHURA","dover sole pacific coast","Fmsy-1/yr",0.131
-"230","DSOLEPCOAST","SWFSC-DSOLEPCOAST-1910-2011-STACHURA","dover sole pacific coast","MSY-MT",34757
-"231","DSOLEPCOAST","SWFSC-DSOLEPCOAST-1910-2011-STACHURA","dover sole pacific coast","SSBmsy-MT",114398
-"232","GOPHERSPCOAST","SWFSC-GOPHERSPCOAST-1965-2005-STANTON","gopher rockfish southern pacific coast","B0-MT",2440
-"233","GOPHERSPCOAST","SWFSC-GOPHERSPCOAST-1965-2005-STANTON","gopher rockfish southern pacific coast","MSY-MT",101
-"234","GOPHERSPCOAST","SWFSC-GOPHERSPCOAST-1965-2005-STANTON","gopher rockfish southern pacific coast","SSBmsy-MT",798
-"235","GOPHERSPCOAST","SWFSC-GOPHERSPCOAST-1965-2005-STANTON","gopher rockfish southern pacific coast","Umsy-ratio",0.103
-"236","GRSPROCKNCAL","SWFSC-GRSPROCKNCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast north","B0-MT",3160
-"237","GRSPROCKNCAL","SWFSC-GRSPROCKNCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast north","Fmsy-1/yr",0.07
-"238","GRSPROCKNCAL","SWFSC-GRSPROCKNCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast north","SSBmsy-eggs",5.64e+11
-"239","GRSPROCKNCAL","SWFSC-GRSPROCKNCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast north","MSY-MT",58.8
-"240","GRSPROCKNCAL","SWFSC-GRSPROCKNCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast north","SSBmsy-MT",134
-"241","GRSPROCKSCAL","SWFSC-GRSPROCKSCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast south","B0-MT",4331
-"242","GRSPROCKSCAL","SWFSC-GRSPROCKSCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast south","Fmsy-1/yr",0.06
-"243","GRSPROCKSCAL","SWFSC-GRSPROCKSCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast south","SSBmsy-eggs",7.94e+11
-"244","GRSPROCKSCAL","SWFSC-GRSPROCKSCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast south","MSY-MT",55.9
-"245","GRSPROCKSCAL","SWFSC-GRSPROCKSCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast south","SSBmsy-MT",180
-"246","SARDPCOAST","SWFSC-SARDPCOAST-1981-2007-PINSKY","pacific sardine pacific coast","MSY-MT",250000
-"247","SARDPCOAST","SWFSC-SARDPCOAST-1981-2007-PINSKY","pacific sardine pacific coast","Fmsy-1/yr",0.15
-"248","SARDPCOAST","SWFSC-SARDPCOAST-1981-2007-PINSKY","pacific sardine pacific coast","SSBmsy-MT",988385
-"249","SBELLYROCKPCOAST","SWFSC-SBELLYROCKPCOAST-1950-2005-BRANCH","shortbelly rockfish pacific coast","B0-MT",98400
-"250","STFLOUNNPCOAST","SWFSC-STFLOUNNPCOAST-1970-2005-STANTON","starry flounder northern pacific coast","B0-MT",12102
-"251","STFLOUNNPCOAST","SWFSC-STFLOUNNPCOAST-1970-2005-STANTON","starry flounder northern pacific coast","MSY-MT",818
-"252","STFLOUNNPCOAST","SWFSC-STFLOUNNPCOAST-1970-2005-STANTON","starry flounder northern pacific coast","SSBmsy-MT",1930
-"253","STFLOUNNPCOAST","SWFSC-STFLOUNNPCOAST-1970-2005-STANTON","starry flounder northern pacific coast","Umsy-ratio",0.169
-"254","STFLOUNSPCOAST","SWFSC-STFLOUNSPCOAST-1970-2005-STANTON","starry flounder southern pacific coast","B0-MT",5854
-"255","STFLOUNSPCOAST","SWFSC-STFLOUNSPCOAST-1970-2005-STANTON","starry flounder southern pacific coast","MSY-MT",396
-"256","STFLOUNSPCOAST","SWFSC-STFLOUNSPCOAST-1970-2005-STANTON","starry flounder southern pacific coast","SSBmsy-MT",934
-"257","STFLOUNSPCOAST","SWFSC-STFLOUNSPCOAST-1970-2005-STANTON","starry flounder southern pacific coast","Umsy-ratio",0.169
+"211","GRNSTROCKPCOAST","PFMC-GRNSTROCKPCOAST-1916-2009-STANTON","greenstriped rockfish pacific coast","B0-MT",33526
+"212","GRNSTROCKPCOAST","PFMC-GRNSTROCKPCOAST-1916-2009-STANTON","greenstriped rockfish pacific coast","MSY-MT",803
+"213","GRNSTROCKPCOAST","PFMC-GRNSTROCKPCOAST-1916-2009-STANTON","greenstriped rockfish pacific coast","SSBmsy-eggs",2.039e+09
+"214","GRNSTROCKPCOAST","PFMC-GRNSTROCKPCOAST-1916-2009-STANTON","greenstriped rockfish pacific coast","Fmsy-1/yr",0.0682
+"219","WINFLOUNDRI","RIDEM-WINFLOUNDRI-1959-2007-COLLIE","winter flounder rhode island","Bmsy-MT",5478
+"220","WINFLOUNDRI","RIDEM-WINFLOUNDRI-1959-2007-COLLIE","winter flounder rhode island","Fmsy-1/yr",0.266
+"221","CALSCORPSCAL","SWFSC-CALSCORPSCAL-1990-2005-STANTON","california scorpionfish southern california","B0-MT",2007
+"222","CALSCORPSCAL","SWFSC-CALSCORPSCAL-1990-2005-STANTON","california scorpionfish southern california","MSY-MT",127
+"223","CALSCORPSCAL","SWFSC-CALSCORPSCAL-1990-2005-STANTON","california scorpionfish southern california","Fmsy-1/yr",0.161
+"224","CMACKPCOAST","SWFSC-CMACKPCOAST-1929-2008-PINSKY","pacific chub mackerel pacific coast","MSY-MT",23048.2
+"225","CMACKPCOAST","SWFSC-CMACKPCOAST-1929-2008-PINSKY","pacific chub mackerel pacific coast","MSY-MT",51772
+"226","CMACKPCOAST","SWFSC-CMACKPCOAST-1929-2008-PINSKY","pacific chub mackerel pacific coast","SSBmsy-MT",122357
+"227","DSOLEPCOAST","SWFSC-DSOLEPCOAST-1910-2011-STACHURA","dover sole pacific coast","B0-MT",821271
+"228","DSOLEPCOAST","SWFSC-DSOLEPCOAST-1910-2011-STACHURA","dover sole pacific coast","Fmsy-1/yr",0.131
+"229","DSOLEPCOAST","SWFSC-DSOLEPCOAST-1910-2011-STACHURA","dover sole pacific coast","MSY-MT",34757
+"230","DSOLEPCOAST","SWFSC-DSOLEPCOAST-1910-2011-STACHURA","dover sole pacific coast","SSBmsy-MT",114398
+"231","GOPHERSPCOAST","SWFSC-GOPHERSPCOAST-1965-2005-STANTON","gopher rockfish southern pacific coast","B0-MT",2440
+"232","GOPHERSPCOAST","SWFSC-GOPHERSPCOAST-1965-2005-STANTON","gopher rockfish southern pacific coast","MSY-MT",101
+"233","GOPHERSPCOAST","SWFSC-GOPHERSPCOAST-1965-2005-STANTON","gopher rockfish southern pacific coast","SSBmsy-MT",798
+"234","GOPHERSPCOAST","SWFSC-GOPHERSPCOAST-1965-2005-STANTON","gopher rockfish southern pacific coast","Umsy-ratio",0.103
+"235","GRSPROCKNCAL","SWFSC-GRSPROCKNCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast north","B0-MT",3160
+"236","GRSPROCKNCAL","SWFSC-GRSPROCKNCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast north","Fmsy-1/yr",0.07
+"237","GRSPROCKNCAL","SWFSC-GRSPROCKNCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast north","SSBmsy-eggs",5.64e+11
+"238","GRSPROCKNCAL","SWFSC-GRSPROCKNCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast north","MSY-MT",58.8
+"239","GRSPROCKNCAL","SWFSC-GRSPROCKNCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast north","SSBmsy-MT",134
+"240","GRSPROCKSCAL","SWFSC-GRSPROCKSCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast south","B0-MT",4331
+"241","GRSPROCKSCAL","SWFSC-GRSPROCKSCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast south","Fmsy-1/yr",0.06
+"242","GRSPROCKSCAL","SWFSC-GRSPROCKSCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast south","SSBmsy-eggs",7.94e+11
+"243","GRSPROCKSCAL","SWFSC-GRSPROCKSCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast south","MSY-MT",55.9
+"244","GRSPROCKSCAL","SWFSC-GRSPROCKSCAL-1916-2010-STACHURA","greenspotted rockfish pacific coast south","SSBmsy-MT",180
+"245","SARDPCOAST","SWFSC-SARDPCOAST-1981-2007-PINSKY","pacific sardine pacific coast","MSY-MT",250000
+"246","SARDPCOAST","SWFSC-SARDPCOAST-1981-2007-PINSKY","pacific sardine pacific coast","Fmsy-1/yr",0.15
+"247","SARDPCOAST","SWFSC-SARDPCOAST-1981-2007-PINSKY","pacific sardine pacific coast","SSBmsy-MT",988385
+"248","SBELLYROCKPCOAST","SWFSC-SBELLYROCKPCOAST-1950-2005-BRANCH","shortbelly rockfish pacific coast","B0-MT",98400
+"249","STFLOUNNPCOAST","SWFSC-STFLOUNNPCOAST-1970-2005-STANTON","starry flounder northern pacific coast","B0-MT",12102
+"250","STFLOUNNPCOAST","SWFSC-STFLOUNNPCOAST-1970-2005-STANTON","starry flounder northern pacific coast","MSY-MT",818
+"251","STFLOUNNPCOAST","SWFSC-STFLOUNNPCOAST-1970-2005-STANTON","starry flounder northern pacific coast","SSBmsy-MT",1930
+"252","STFLOUNNPCOAST","SWFSC-STFLOUNNPCOAST-1970-2005-STANTON","starry flounder northern pacific coast","Umsy-ratio",0.169
+"253","STFLOUNSPCOAST","SWFSC-STFLOUNSPCOAST-1970-2005-STANTON","starry flounder southern pacific coast","B0-MT",5854
+"254","STFLOUNSPCOAST","SWFSC-STFLOUNSPCOAST-1970-2005-STANTON","starry flounder southern pacific coast","MSY-MT",396
+"255","STFLOUNSPCOAST","SWFSC-STFLOUNSPCOAST-1970-2005-STANTON","starry flounder southern pacific coast","SSBmsy-MT",934
+"256","STFLOUNSPCOAST","SWFSC-STFLOUNSPCOAST-1970-2005-STANTON","starry flounder southern pacific coast","Umsy-ratio",0.169
 "209","BOCACCSPCOAST","PFMC-BOCACCSPCOAST-1930-2012-KURIYAMA","bocaccio southern pacific coast","SSBmsy",45476
 "210","BOCACCSPCOAST","PFMC-BOCACCSPCOAST-1930-2012-KURIYAMA","bocaccio southern pacific coast","FMSY-1/yr",0.084
-"211","BOCACCSPCOAST","PFMC-BOCACCSPCOAST-1930-2012-KURIYAMA","bocaccio southern pacific coast","MSY-MT",1378
+"2111","BOCACCSPCOAST","PFMC-BOCACCSPCOAST-1930-2012-KURIYAMA","bocaccio southern pacific coast","MSY-MT",1378
 "2121","COWCODSCAL","PFMC-COWCODSCAL-1930-2012-KURIYAMA","cowcod southern california","SSB0-MT",1549
 "2131","COWCODSCAL","PFMC-COWCODSCAL-1930-2012-KURIYAMA","cowcod southern california","SSBmsy-MT",629
 "2141","COWCODSCAL","PFMC-COWCODSCAL-1930-2012-KURIYAMA","cowcod southern california","Fmsy-1/MT",0.055
-"2151","DKROCKPCOAST","NWFSC-DKROCKPCOAST-1928-2013-KURIYAMA","darkblotched rockfish pacific coast","B0-MT",36171
+"215","DKROCKPCOAST","NWFSC-DKROCKPCOAST-1928-2013-KURIYAMA","darkblotched rockfish pacific coast","B0-MT",36171
 "216","DKROCKPCOAST","NWFSC-DKROCKPCOAST-1928-2013-KURIYAMA","darkblotched rockfish pacific coast","Fmsy-1/yr",0.0665
 "217","DKROCKPCOAST","NWFSC-DKROCKPCOAST-1928-2013-KURIYAMA","darkblotched rockfish pacific coast","MSY-MT",742
 "218","DKROCKPCOAST","NWFSC-DKROCKPCOAST-1928-2013-KURIYAMA","darkblotched rockfish pacific coast","SSBmsy-E08eggs",819
-"219","PHAKEPCOAST","NWFSC-PHAKEPCOAST-1966-2014-KURIYAMA","pacific hake pacific coast","SSBmsy-MT",347000
+"2191","PHAKEPCOAST","NWFSC-PHAKEPCOAST-1966-2014-KURIYAMA","pacific hake pacific coast","SSBmsy-MT",347000
 "2201","PHAKEPCOAST","NWFSC-PHAKEPCOAST-1966-2014-KURIYAMA","pacific hake pacific coast","MSY-MT",363000
 "2211","PHAKEPCOAST","NWFSC-PHAKEPCOAST-1966-2014-KURIYAMA","pacific hake pacific coast","Fmsy-1/T",0.342
 "2221","PHAKEPCOAST","NWFSC-PHAKEPCOAST-1966-2014-KURIYAMA","pacific hake pacific coast","B0-MT",2132000
@@ -255,4 +255,4 @@
 "2541","WHAKEGBGOM","NEFSC-WHAKEGBGOM-1963-2011-KURIYAMA","white hake georges bank / gulf of maine","MSY-MT",5630
 "2551","HAD5Y","NEFSC-HAD5Y-2004-2013-KURIYAMA","haddock nafo-5y","SSBmsy-MT",4108
 "2561","HAD5Y","NEFSC-HAD5Y-2004-2013-KURIYAMA","haddock nafo-5y","Fmsy",0.46
-"2571","BLACKROCKNPCOAST","NWFSC-BLACKROCKNPCOAST-1914-2006-BRANCH","black rockfish northern pacific coast","SBmsy-MT",4947
+"257","BLACKROCKNPCOAST","NWFSC-BLACKROCKNPCOAST-1914-2006-BRANCH","black rockfish northern pacific coast","SBmsy-MT",4947
